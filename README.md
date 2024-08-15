@@ -15,6 +15,7 @@ Segunda atividade do módulo:<br/>
 | Scene | Object Reference |
 | :----: | :----: |
 | <img src="/Files/Module2/Scene.png" alt="project"/> | <img src="/Files/Module2/Object.png" alt="project"/> |
+</div>
 
 ## Módulo 6
 
