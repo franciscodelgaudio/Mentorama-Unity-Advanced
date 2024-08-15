@@ -11,11 +11,9 @@ Segunda atividade do módulo:<br/>
 3D Avançado: Criar um cenário e tentar replicar um objeto com o ProBuilder.<br/>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module2)
 
-<div >
 | Scene | Object Reference |
 | :----: | :----: |
 | <img src="/Files/Module2/Scene.png" alt="project"/> | <img src="/Files/Module2/Object.png" alt="project"/> |
-</div>
 
 ## Módulo 6
 
