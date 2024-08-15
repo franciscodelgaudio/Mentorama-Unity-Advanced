@@ -2,18 +2,18 @@
 
 Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
 Módulo: **Unity Avançado**<br/>
-Versão do Unity: **2022.3.40f1*<br/>
+Versão do Unity: **2022.3.40f1**<br/>
 Acessar os arquivos das atividades na pasta: **Files**
 
 ## Módulo 2
 
 Segunda atividade do módulo:<br/>
 3D Avançado: Criar um cenário e tentar replicar um objeto com o ProBuilder.<br/>
-[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module2)
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module2)
 
-| Scene | Object Game | Object Reference |
-| :----: | :----: | :----: |
-| <img src="/Files/Module2/Game.PNG" alt="project"/> | <img src="/Files/Module2/ObjectGame.PNG" alt="project"/> | <img src="/Files/Module2/ObjectReference.PNG" alt="project"/> |
+| Scene | Object Reference |
+| :----: | :----: |
+| <img src="/Files/Module2/Scene.PNG" alt="project"/> | <img src="/Files/Module2/ObjectReference.PNG" alt="project"/> |
 
 ## Módulo 6
 
