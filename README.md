@@ -21,14 +21,12 @@ Sexta atividade do módulo:<br/>
 Criar um sistema com personagem, e escolher quais das cameras implementar: thrithy person follow, simple cam ou free look.<br/>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module6)
 
-<img src="/Files/Module6/Game.png" alt="project"/>
+<img src="/Files/Module6/Game.gif" alt="project"/>
 
 ## Módulo 7
-3
+
 Sétima atividade do módulo:<br/>
 Criar uma cutscene utilizando conceitos de Timeline<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module7)
 
-https://user-images.githubusercontent.com/40280348/185396898-1506f4ea-5027-47a0-9509-370c1319b670.mp4
-
-<!-- Ajuda: Como faz para controlar e escolher a rotação da camera sem colocar um "Follow" ou "Look At", durante a utilização do Dolly Track. -->
+<img src="/Files/Module7/Game.gif" alt="project"/>
