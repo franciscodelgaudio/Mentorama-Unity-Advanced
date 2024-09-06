@@ -8,13 +8,12 @@ Acessar os arquivos das atividades na pasta: **Files**
 ## Módulo 1
 
 Primeira atividade do módulo:<br/>
-2D Avançado: Criar um cenário 2D utilizando Tilemap Editor, Sprite Shape, 2D Lights ou 2D Rig.
-[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module2)
+2D Avançado: Criar um cenário 2D utilizando Tilemap Editor, Sprite Shape, 2D Lights ou 2D Rig.<br/>
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module1)
 
-| Scene | Object Reference |
-| :----: | :----: |
-| <img src="/Files/Module2/Scene.png" alt="project"/> | <img src="/Files/Module2/Object.png" alt="project"/> |
-
+<div align="center">
+  <img src="/Files/Module1/Game.gif" alt="project"/>
+</div>
 
 ## Módulo 2
 
@@ -25,6 +24,19 @@ Segunda atividade do módulo:<br/>
 | Scene | Object Reference |
 | :----: | :----: |
 | <img src="/Files/Module2/Scene.png" alt="project"/> | <img src="/Files/Module2/Object.png" alt="project"/> |
+
+## Módulo 3
+
+## Módulo 3
+
+Terceira atividade do módulo:<br/>
+Criar um game com labirinto com o jogador controlando um personagem e um vilão perseguindo pelo labirinto.
+- Utilizando NavMesh
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module3)
+
+<div align="center">
+  <img src="/Files/Module1/Game.gif" alt="project"/>
+</div>
 
 ## Módulo 6
 
