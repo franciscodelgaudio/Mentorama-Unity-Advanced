@@ -5,6 +5,17 @@ Módulo: **Unity Avançado**<br/>
 Versão do Unity: **2022.3.40f1**<br/>
 Acessar os arquivos das atividades na pasta: **Files**
 
+## Módulo 1
+
+Primeira atividade do módulo:<br/>
+2D Avançado: Criar um cenário 2D utilizando Tilemap Editor, Sprite Shape, 2D Lights ou 2D Rig.
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module2)
+
+| Scene | Object Reference |
+| :----: | :----: |
+| <img src="/Files/Module2/Scene.png" alt="project"/> | <img src="/Files/Module2/Object.png" alt="project"/> |
+
+
 ## Módulo 2
 
 Segunda atividade do módulo:<br/>
