@@ -12,7 +12,7 @@ Primeira atividade do módulo:<br/>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module1)
 
 
-<img src="/Files/Module2/Game.gif" alt="project"/>
+<img src="/Files/Module1/Game.gif" alt="project"/>
 
 
 ## Módulo 2
