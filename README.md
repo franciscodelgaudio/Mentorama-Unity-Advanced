@@ -29,7 +29,7 @@ Segunda atividade do módulo:<br/>
 
 Terceira atividade do módulo:<br/>
 Criar um game com labirinto com o jogador controlando um personagem e um vilão perseguindo pelo labirinto.
-- Utilizando NavMesh
+- Utilizando NavMesh</br>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module3)
 
 <div align="center">
