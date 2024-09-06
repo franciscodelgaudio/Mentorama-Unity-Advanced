@@ -24,6 +24,17 @@ Segunda atividade do módulo:<br/>
 | :----: | :----: |
 | <img src="/Files/Module2/Scene.png" alt="project"/> | <img src="/Files/Module2/Object.png" alt="project"/> |
 
+## Módulo 3
+
+## Módulo 3
+
+Terceira atividade do módulo:<br/>
+Criar um game com labirinto com o jogador controlando um personagem e um vilão perseguindo pelo labirinto.
+- Utilizando NavMesh
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module3)
+
+<img src="/Files/Module1/Game.gif" alt="project"/>
+
 ## Módulo 6
 
 Sexta atividade do módulo:<br/>
