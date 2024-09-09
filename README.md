@@ -46,7 +46,7 @@ Criar um terreno, utilizando as ferramentas de topologia, pintar textura e adici
 
 | Scene | SplatAlpha |
 | :----: | :----: |
-| <img src="/Files/Module4/Game.gif" alt="project"/> | <img src="/Files/Module4/SplatAlpha.png" alt="project"/> |
+| <img src="/Files/Module4/Game.png" alt="project"/> | <img src="/Files/Module4/SplatAlpha.png" alt="project"/> |
 
 ## Módulo 6
 
