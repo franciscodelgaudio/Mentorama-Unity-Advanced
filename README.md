@@ -64,7 +64,7 @@ Sexta atividade do módulo:<br/>
 Criar um sistema com personagem, e escolher quais das cameras implementar: thrithy person follow, simple cam ou free look.<br/>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module6)
 
-<img src="/Files/Module6/Game.gif" alt="project"/>
+<video src="https://github.com/user-attachments/assets/bc1f9255-55a6-4b0d-8a3a-df7bb037e317" alt="project"/>
 
 ## Módulo 7
 
