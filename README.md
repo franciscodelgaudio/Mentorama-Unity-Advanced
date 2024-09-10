@@ -75,3 +75,11 @@ Criar uma cutscene utilizando conceitos de Timeline<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module7)
 
 <img src="/Files/Module7/Game.gif" alt="project"/>
+
+## Módulo 8
+
+Oitava atividade do módulo:<br/>
+Iluminar uma cena pré montada de uma caverna.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module8)
+
+
