@@ -72,7 +72,7 @@ Criar um sistema com personagem, e escolher quais das cameras implementar: thrit
 
 Sétima atividade do módulo:<br/>
 Criar uma cutscene utilizando conceitos de Timeline<br/>
-[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module7)
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module7)
 
 <img src="/Files/Module7/Game.gif" alt="project"/>
 
@@ -80,6 +80,8 @@ Criar uma cutscene utilizando conceitos de Timeline<br/>
 
 Oitava atividade do módulo:<br/>
 Iluminar uma cena pré montada de uma caverna.<br/>
-[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module8)
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module8)
 
-
+<div align="center">
+  <img src="/Files/Module8/Game.gif" alt="project"/>
+</div>
