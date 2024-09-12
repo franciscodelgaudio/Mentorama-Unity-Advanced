@@ -52,11 +52,11 @@ Criar um terreno, utilizando as ferramentas de topologia, pintar textura e adici
 
 Quinta atividade do módulo:<br/>
 Utilizar Input System para o carro ter um sistema de atirar.<br/>
-[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module5)
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module5)
 
-| Game | InputAction | Code |
-| :----: | :----: | :----: |
-| <img src="/Files/Module5/Game.gif" alt="project"/> | <img src="/Files/Module5/InputAction.png" alt="project"/> | <img src="/Files/Module5/Code.png" alt="project"/> |
+<div align="center">
+  <img src="/Files/Module5/Game.gif" alt="project"/>
+</div>
 
 ## Módulo 6
 
@@ -64,12 +64,24 @@ Sexta atividade do módulo:<br/>
 Criar um sistema com personagem, e escolher quais das cameras implementar: thrithy person follow, simple cam ou free look.<br/>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module6)
 
-<img src="/Files/Module6/Game.gif" alt="project"/>
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/bc1f9255-55a6-4b0d-8a3a-df7bb037e317" alt="project"/>
+</div>
+  
 ## Módulo 7
 
 Sétima atividade do módulo:<br/>
 Criar uma cutscene utilizando conceitos de Timeline<br/>
-[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module7)
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module7)
 
 <img src="/Files/Module7/Game.gif" alt="project"/>
+
+## Módulo 8
+
+Oitava atividade do módulo:<br/>
+Iluminar uma cena pré montada de uma caverna.<br/>
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module8)
+
+<div align="center">
+  <img src="/Files/Module8/Game.gif" alt="project"/>
+</div>
