@@ -85,3 +85,13 @@ Iluminar uma cena pré montada de uma caverna.<br/>
 <div align="center">
   <img src="/Files/Module8/Game.gif" alt="project"/>
 </div>
+
+## Módulo 9
+
+Nona atividade do módulo:<br/>
+Preparar um cena aplicando efeitos de pós-processamento.<br/>
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module9)
+
+<div align="center">
+  <img src="/Files/Module8/Game.gif" alt="project"/>
+</div>
