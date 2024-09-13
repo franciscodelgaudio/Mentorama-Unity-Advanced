@@ -93,5 +93,5 @@ Preparar um cena aplicando efeitos de pós-processamento.<br/>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module9)
 
 <div align="center">
-  <img src="/Files/Module8/Game.gif" alt="project"/>
+  <img src="/Files/Module9/Game.png" alt="project"/>
 </div>
