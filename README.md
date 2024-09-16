@@ -105,3 +105,12 @@ Criar um projétil.<br/>
 <div align="center">
   <img src="/Files/Module10/Game.gif" alt="project"/>
 </div>
+
+## Módulo 11
+Décima Primeira atividade do módulo:<br/>
+Criar um shader que tenha um slider para aplicar uma escala de cinza.</br>
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module11)
+
+<div align="center">
+  <img src="/Files/Module10/Game.gif" alt="project"/>
+</div>
