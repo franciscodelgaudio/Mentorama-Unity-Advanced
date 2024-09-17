@@ -112,5 +112,5 @@ Criar um shader que tenha um slider para aplicar uma escala de cinza.</br>
 [Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module11)
 
 <div align="center">
-  <img src="/Files/Module10/Game.gif" alt="project"/>
+  <img src="/Files/Module11/Game.gif" alt="project"/>
 </div>
