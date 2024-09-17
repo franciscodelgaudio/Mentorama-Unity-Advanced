@@ -114,3 +114,15 @@ Criar um shader que tenha um slider para aplicar uma escala de cinza.</br>
 <div align="center">
   <img src="/Files/Module11/Game.gif" alt="project"/>
 </div>
+
+## Módulo 12
+
+Décima Segunda atividade do módulo:<br/>
+Responder questionário sobre otimização de projeto.<br/>
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module12)
+
+Respostas:
+
+| 1)  C | 2)  D | 3)  B | 4)  D | 5)  B |
+| :----: | :----: | :----: | :----: | :----: |
+| 6)  A | 7)  C | 8)  C | 9)  A | 10) D |
