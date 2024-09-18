@@ -126,3 +126,13 @@ Respostas:
 | 1)  C | 2)  D | 3)  B | 4)  D | 5)  B |
 | :----: | :----: | :----: | :----: | :----: |
 | 6)  A | 7)  C | 8)  C | 9)  A | 10) D |
+
+## Módulo 13
+
+Décima Terceira atividade do módulo:<br/>
+Criar uma animação do personagem 3D, animando o rig para a mão ir até uma macaneta e abrir a porta<br/>
+[Arquivos da Atividade](https://github.com/franciscodelgaudio/Mentorama-Unity-Advanced/tree/main/Files/Module13)
+
+<div align="center">
+  <img src="/Files/Module13/Game.gif" alt="project"/>
+</div>
